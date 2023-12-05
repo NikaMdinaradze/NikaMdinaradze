@@ -1,4 +1,3 @@
-# Nikoloz Mdinaradze
 *+995591701202* | nikolozi.mdinaradze.1@btu.edu.ge | *[LinkedIn](https://www.linkedin.com/in/nikoloz-mdinaradze-99b9552a2/)* | *[GitHub](https://github.com/NikaMdinaradze)*
 ## Summary
 Motivated and detail-oriented individual with a strong background in Python and web development. Proven track record of accomplishments in python, Django, FastAPI, Flask, and SQL and noSQL databases. Seeking an opportunity to contribute my skills and experience.
