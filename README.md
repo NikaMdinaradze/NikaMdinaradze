@@ -10,5 +10,6 @@ I specialize in software development, primarily using Python with frameworks suc
 - SQL and noSQL databases
 - Object-Oriented Programming
 - Python
+- GenAI, LangChain
 - API Design and Development
 - GCP, AWS
